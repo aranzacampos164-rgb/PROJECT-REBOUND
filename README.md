@@ -74,3 +74,9 @@ paths in `sfx.gd`.
 - The intro, inter-planet travel, and ending are text cutscenes in `cutscene.gd`.
 - Pages are defined in `main.gd` (`_intro_pages()`, `_travel_pages()`).
 - `Enter` skips ahead; `Esc` jumps to the end of the flight.
+
+<img width="1280" height="832" alt="Screenshot 2026-11-15 at 4 49 45 PM" src="https://github.com/user-attachments/assets/4a250de2-674b-4a95-bf77-05366dfacf61" />
+<img width="1280" height="832" alt="Screenshot 2026-11-15 at 4 49 40 PM" src="https://github.com/user-attachments/assets/2d56a760-f1b4-4513-8d6b-37dea33895f0" />
+<img width="1280" height="831" alt="Screenshot 2026-11-15 at 4 49 33 PM" src="https://github.com/user-attachments/assets/cb4045ac-09b5-4041-aeba-7e7936d853f1" />
+<img width="1280" height="832" alt="Screenshot 2026-11-15 at 4 49 29 PM" src="https://github.com/user-attachments/assets/770cdabb-b952-49b0-882a-facd37543c4d" />
+<img width="1280" height="832" alt="Screenshot 2026-11-15 at 4 49 22 PM" src="https://github.com/user-attachments/assets/3354de65-a8d8-42ff-b95b-ec507c8503b8" />
